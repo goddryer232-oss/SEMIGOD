@@ -1,2 +1,0 @@
-# SEMIGOD
-Lastname SEMIGOD
